@@ -1,0 +1,20 @@
+git status : Show below
+----------------------------------------------------------------
+Untracked			Unmodified			Modified	 	 Staged
+	|					|			    	|				|
+	|---------------------Add the file--------------------->|
+	|					|---Edit the file-->|			    |
+	|<-Remove the file--|					|			    |
+	|					|<-------------Commit---------------|
+	|					|					|				|
+----------------------------------------------------------------
+git init : Build a respo(.git directory)
+git add :  Track the new file which  git add
+git commit -m : Commit the file with the message
+git remote -v : Show git remote URL for push and fetch
+git reset HEAD^ or git reset master^ : return last commit
+
+
+
+
+
