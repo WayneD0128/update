@@ -1,0 +1,16 @@
+git init : build a respo(.git directory)
+git add :  track the file which  git add
+git commit -m : commit the file with the message
+----------------------------------------------------------------
+Untracked			Unmodified			Modified		Staged
+	|					|			    	|		   	   |
+	|---------------------Add the file-------------------->|
+	|					|---Edit the file-->|			   |
+	|<-Remove the file--|					|			   |
+	|					|<-------------Commit--------------|
+-----------------------------------------------------------------
+
+
+
+
+
